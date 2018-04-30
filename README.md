@@ -3,6 +3,7 @@
 想要看看效果的可以clone下来
 
   npm install 
+  
   npm run dev
   
 打开浏览器访问 localhost：8080 即可看到页面
