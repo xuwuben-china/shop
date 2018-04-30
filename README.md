@@ -36,11 +36,12 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
   npm run dev
   
 打开浏览器访问 localhost：8080 即可看到页面
-上面方法需要下载很多依赖包，可用下面方法更快访问
+上面方法需要下载很多依赖包，可用下面方法更快访问，但必须安装node.js
 进入dist文件夹
 
    npm install
-
+  
+   node app.js
 访问 127.0.0.1:3001 即可看到
 如果不下载依赖包是无法访问的，因为数据都是模拟服务器请求的，不装依赖是请求不到数据的。
 <<<<<<< HEAD
