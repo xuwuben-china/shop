@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # cell
 
 > app
@@ -24,6 +25,8 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 =======
 =======
 >>>>>>> 8e6b32468ecef7699a262c41fc568458111ca8bf
+=======
+>>>>>>> 8e6b32468ecef7699a262c41fc568458111ca8bf
 # shop
 基于vue框架的外卖手机端
 想要看看效果的可以clone下来
@@ -41,6 +44,9 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 访问 127.0.0.1:3001 即可看到
 如果不下载依赖包是无法访问的，因为数据都是模拟服务器请求的，不装依赖是请求不到数据的。
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 8e6b32468ecef7699a262c41fc568458111ca8bf
+=======
 >>>>>>> 8e6b32468ecef7699a262c41fc568458111ca8bf
 =======
 >>>>>>> 8e6b32468ecef7699a262c41fc568458111ca8bf
