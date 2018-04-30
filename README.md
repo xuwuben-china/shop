@@ -1,10 +1,10 @@
 # shop
 基于vue框架的外卖手机端
 想要看看效果的可以clone下来
- ` 
-    npm install 
-    npm run dev
- `
+
+  npm install 
+  npm run dev
+  
 打开浏览器访问 localhost：8080 即可看到页面
 上面方法需要下载很多依赖包，可用下面方法更快访问
 进入dist文件夹
