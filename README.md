@@ -42,6 +42,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
    npm install
   
    node app.js
+   
 访问 127.0.0.1:3001 即可看到
 如果不下载依赖包是无法访问的，因为数据都是模拟服务器请求的，不装依赖是请求不到数据的。
 <<<<<<< HEAD
